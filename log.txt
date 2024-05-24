@@ -1,0 +1,40 @@
+Alice:0logging a message
+Bob:0logging a message
+Bob:0logging a message finished.
+Bob:1logging a message
+Alice:0logging a message finished.
+Alice:1logging a message
+Alice:1logging a message finished.
+Alice:2logging a message
+Bob:1logging a message finished.
+Bob:2logging a message
+Bob:2logging a message finished.
+Bob:3logging a message
+Alice:2logging a message finished.
+Alice:3logging a message
+Bob:3logging a message finished.
+Bob:4logging a message
+Alice:3logging a message finished.
+Alice:4logging a message
+Bob:4logging a message finished.
+Bob:5logging a message
+Alice:4logging a message finished.
+Alice:5logging a message
+Bob:5logging a message finished.
+Bob:6logging a message
+Alice:5logging a message finished.
+Alice:6logging a message
+Bob:6logging a message finished.
+Bob:7logging a message
+Alice:6logging a message finished.
+Alice:7logging a message
+Bob:7logging a message finished.
+Bob:8logging a message
+Alice:7logging a message finished.
+Alice:8logging a message
+Bob:8logging a message finished.
+Bob:9logging a message
+Alice:8logging a message finished.
+Alice:9logging a message
+Bob:9logging a message finished.
+Alice:9logging a message finished.
